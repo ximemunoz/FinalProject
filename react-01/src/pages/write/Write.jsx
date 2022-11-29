@@ -5,7 +5,7 @@ export default function Write() {
     <div className="write">
         <img 
         className="writeImg"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png" 
+        src="http://lemonbin.com/wp-content/uploads/2020/06/airplane-june112020.jpg" 
         alt="" />
         <form className="writeForm">
             <div className="writeFormGroup">

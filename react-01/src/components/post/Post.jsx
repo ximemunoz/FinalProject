@@ -3,7 +3,7 @@ import "./post.css"
 export default function Post() {
   return (
     <div className="post">
-      <img className="postImg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png" alt=""/>
+      <img className="postImg" src="http://lemonbin.com/wp-content/uploads/2020/06/airplane-june112020.jpg" alt=""/>
       <div className="postInfo">
         <div className="postCats">
             <span className="postCat">Music</span>

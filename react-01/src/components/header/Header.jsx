@@ -5,12 +5,12 @@ export default function Header() {
   return (
     <div className='header'>
       <div className="headerTitles">
-        <span className="headerTitleSn"> React & Node</span>
-        <span className="headerTitleLg"> Blog </span>
+        <span className="headerTitleSn">The freedom to fly</span>
+        <span className="headerTitleLg">Travel Blog</span>
       </div>
       <img
         className="headerImg"
-        src="https://bptfotografia.com/wp-content/uploads/2021/07/foto-de-un-paisaje-1024x683.jpg"
+        src="https://photographylife.com/wp-content/uploads/2018/02/Photographing-Airplanes-4.jpg"
         alt=""
       />
     </div>
